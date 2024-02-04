@@ -1,2 +1,2 @@
 # engeto_powerbi_project_2024
-Analysis of gross domestic expenditure on Research &amp; Development
+Analysis of gross domestic expenditure on Research &amp; Development in PowerBI
